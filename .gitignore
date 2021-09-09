@@ -4,3 +4,5 @@
 .idea/runConfigurations.xml
 .idea/uiDesigner.xml
 .idea/.gitignore
+.idea/vcs.xml
+target/

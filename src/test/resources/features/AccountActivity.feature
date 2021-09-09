@@ -1,4 +1,4 @@
-  @wip
+
   Feature: Account Activity
 
     Background: User logged in with valid credentials
