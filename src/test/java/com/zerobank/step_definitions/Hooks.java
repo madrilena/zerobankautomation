@@ -11,7 +11,7 @@ import org.openqa.selenium.TakesScreenshot;
 public class Hooks {
     @Before
     public void setUP(){
-
+        Driver.get().manage().window().maximize();
         System.out.println("\tthis is coming from BEFORE");
 
     }
